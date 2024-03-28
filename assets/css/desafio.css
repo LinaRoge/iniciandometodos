@@ -1,0 +1,22 @@
+#list {
+  background-color: rgb(170, 170, 165);
+  align-items: center;
+  left: 50%;
+  width: 750px;
+  padding: 20px;
+  border: 1, solid, black;
+}
+
+button {
+  background-color: rgba(73, 231, 73, 0.76);
+  color: white;
+  border: 1, solid;
+}
+input {
+  width: 500px;
+}
+#Listatareas {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+}
